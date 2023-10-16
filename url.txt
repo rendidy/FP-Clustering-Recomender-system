@@ -1,0 +1,6 @@
+Visualisasi Tableu
+https://public.tableau.com/shared/XXKZSJKT3?:display_count=n&:origin=viz_share_link
+
+
+Model Deployement
+https://huggingface.co/spaces/riki-profile/bukaonline_project
